@@ -1,0 +1,44 @@
+{
+  "Brands": {
+    "description": "Auto imported from components/Brands.vue"
+  },
+  "LazyBrands": {
+    "description": "Auto imported from components/Brands.vue"
+  },
+  "CoreValues": {
+    "description": "Auto imported from components/CoreValues.vue"
+  },
+  "LazyCoreValues": {
+    "description": "Auto imported from components/CoreValues.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "GlobalOffices": {
+    "description": "Auto imported from components/GlobalOffices.vue"
+  },
+  "LazyGlobalOffices": {
+    "description": "Auto imported from components/GlobalOffices.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "LazyHero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  }
+}
